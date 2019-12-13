@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/hse/ADS/task6_sum_of_it_parts/src/main.cpp
+iostream
+-
+fstream
+-
+cstdlib
+-
+parts.h
+/cygdrive/c/hse/ADS/task6_sum_of_it_parts/src/parts.h
+
+/cygdrive/c/hse/ADS/task6_sum_of_it_parts/src/parts.h
+vector
+-
+map
+-
+string
+-
+

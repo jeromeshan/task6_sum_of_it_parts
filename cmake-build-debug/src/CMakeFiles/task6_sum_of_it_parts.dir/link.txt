@@ -1,0 +1,1 @@
+/usr/bin/c++.exe        -std=gnu++11 -DWINVER=0x0500 -g  -Wl,--enable-auto-import CMakeFiles/task6_sum_of_it_parts.dir/main.cpp.o CMakeFiles/task6_sum_of_it_parts.dir/parts.cpp.o  -o task6_sum_of_it_parts.exe -Wl,--out-implib,libtask6_sum_of_it_parts.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
